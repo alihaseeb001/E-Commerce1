@@ -1,4 +1,3 @@
-// Relative Paths Configuration (Folder ab jahan bhi jayega, images load hongi)
 const products = [
     { id: 1, name: 'Lawn Frock', price: 4500, category: 'Clothing', img: 'images/lawn firok.png' },
     { id: 2, name: 'Silk Maxi', price: 12500, category: 'Clothing', img: 'images/Silk Maxi.png' },
