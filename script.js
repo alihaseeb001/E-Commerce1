@@ -1,12 +1,13 @@
+// Relative Paths Configuration (Folder ab jahan bhi jayega, images load hongi)
 const products = [
-    { id: 1, name: 'Lawn Frock', price: 4500, category: 'Clothing', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/lawn%20firok.png' },
-    { id: 2, name: 'Silk Maxi', price: 12500, category: 'Clothing', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Silk%20Maxi.png' },
-    { id: 3, name: 'Shalwar Kameez', price: 5500, category: 'Clothing', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Shalwar%20Kameez.png' },
-    { id: 4, name: 'Anarkali Suit', price: 8900, category: 'Clothing', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Anarkali%20Suit.png' },
-    { id: 5, name: 'Leather Khussa', price: 2800, category: 'Footwear', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Leather%20Khussa.png' },
-    { id: 6, name: 'Kolhapuri Flat', price: 1900, category: 'Footwear', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Flat%20Wedding%20shoes.png' },
-    { id: 7, name: 'Oud Perfume', price: 4200, category: 'Perfumes', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Oud%20perfume.png' },
-    { id: 8, name: 'Rose Scent', price: 6500, category: 'Perfumes', img: 'file:///C:/Users/User/OneDrive/Desktop/New%20folder/Rose%20Scent.png' }
+    { id: 1, name: 'Lawn Frock', price: 4500, category: 'Clothing', img: 'images/lawn firok.png' },
+    { id: 2, name: 'Silk Maxi', price: 12500, category: 'Clothing', img: 'images/Silk Maxi.png' },
+    { id: 3, name: 'Shalwar Kameez', price: 5500, category: 'Clothing', img: 'images/Shalwar Kameez.png' },
+    { id: 4, name: 'Anarkali Suit', price: 8900, category: 'Clothing', img: 'images/Anarkali Suit.png' },
+    { id: 5, name: 'Leather Khussa', price: 2800, category: 'Footwear', img: 'images/Leather Khussa.png' },
+    { id: 6, name: 'Kolhapuri Flat', price: 1900, category: 'Footwear', img: 'images/Flat Wedding shoes.png' },
+    { id: 7, name: 'Oud Perfume', price: 4200, category: 'Perfumes', img: 'images/Oud perfume.png' },
+    { id: 8, name: 'Rose Scent', price: 6500, category: 'Perfumes', img: 'images/Rose Scent.png' }
 ];
 
 let cart = [];
